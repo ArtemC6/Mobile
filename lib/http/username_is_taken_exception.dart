@@ -1,0 +1,1 @@
+class UsernameIsTakenException implements Exception {}

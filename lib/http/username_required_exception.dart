@@ -1,0 +1,1 @@
+class UsernameRequiredException implements Exception {}
